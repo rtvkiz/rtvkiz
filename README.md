@@ -11,8 +11,8 @@
 ### Container & Docker Security
 | Project | Description |
 |---------|-------------|
-| [Docker-Sentinel](https://github.com/rtvkiz/Docker-Sentinel) | Scalable Docker authorization plugin for enterprise container security |
 | [minimal](https://github.com/rtvkiz/minimal) | Hardened container image collection for secure deployments and community driven |
+| [Docker-Sentinel](https://github.com/rtvkiz/Docker-Sentinel) | Scalable Docker authorization plugin for enterprise container security |
 | [DockerBench-plus](https://github.com/rtvkiz/DockerBench-plus) | Advanced version of the standard Docker Bench security tool |
 | [container-from-scratch](https://github.com/rtvkiz/container-from-scratch) | Go implementation of containers from scratch - educational deep dive |
 | [doccopy](https://github.com/rtvkiz/doccopy) | Docker container cloning utility |
